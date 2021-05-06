@@ -38,7 +38,7 @@ et-xmlfile==1.0.1
 fastcache==1.0.2
 firebase-admin==2.6.0
 Flask==0.12
-Flask-Cors==3.0.2
+Flask-Cors==3.0.9
 future==0.16.0
 gevent==1.2.1
 google-api-core==0.1.2
